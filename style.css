@@ -30,11 +30,13 @@ header {
 .logOut {
   margin: 0 auto;
   margin-top: 0px;
-  width: 200px;
   height: 45px;
   padding: 5px;
-  background-color: rgba(255, 255, 255, 0.461);
-  box-shadow: 0px 10px 10px -15px rgba(27, 23, 23, 0.452);
+  width: 420px;
+  border-bottom-right-radius: 13px;
+  border-bottom-left-radius: 13px;
+  background-color: #fff;
+  box-shadow: 5px 10px 10px -15px rgba(27, 23, 23, 0.452);
 }
 a {
   text-decoration: none;
@@ -44,14 +46,17 @@ h2 {
   text-align: center;
   font-family: 'Logo';
   margin: 0;
-  margin-top: -7px;
-  font-weight: 300;
-  margin-left: 30px;
+  margin-top: -13px;
+  font-weight: 400;
   cursor: pointer;
   color: #221c53;
-  font-size: 25px;
+  font-size: 30px;
   line-height: 35px;
   padding: 0;
+}
+h2 span {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
 }
 /* .secondText {
   font-family: 'Roboto Serif', serif;
