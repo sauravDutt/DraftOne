@@ -29,10 +29,8 @@ header {
 }
 .logOut {
   margin: 0 auto;
-  margin-top: 0px;
   height: 45px;
   padding: 5px;
-  width: 420px;
   border-bottom-right-radius: 13px;
   border-bottom-left-radius: 13px;
   background-color: #fff;
@@ -359,11 +357,11 @@ h1 {
 
   }
   .scroll {
-    width: 70%;
+    width: 50%;
     font-size: 15px;
     font-weight: 100;
     margin-top: -20px;
-    margin-left: 35%;
+    margin-left: 75px;
   }
   .info {
     margin-top: 920vh;
