@@ -359,6 +359,7 @@ h1 {
 
   }
   .scroll {
+    width: 70%;
     font-size: 15px;
     font-weight: 100;
     margin-top: -20px;
